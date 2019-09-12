@@ -1,0 +1,4 @@
+Name: autosaver
+Tags: simple, build
+Description: Autosaves every N minutes to a file. Highly configurable.
+Release: https://github.com/n42k/brikkit_autosaver/releases/tag/v0.1.0
