@@ -2,3 +2,8 @@ Name: autosaver
 Tags: simple, build
 Description: Autosaves every N minutes to a file. Highly configurable.
 Release: https://github.com/n42k/brikkit_autosaver/releases/tag/v0.2.0
+
+Name: diceroll
+Tags: simple, dice, merp
+Description: A diceroller plugin. Works with !diceroll. After the command put in the number of dice and sides. The command will only work if at least the number of dice is specified.
+Release: https://github.com/McPopato/diceroll/releases/tag/1.0
